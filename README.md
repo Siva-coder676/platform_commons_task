@@ -1,4 +1,4 @@
-# platform_commons_task
+
   Description About the App Project
 
   I implemented this app using Flutter state management. The app was built using the Dio package as the network client, and we used model classes for parsing data. We utilized the Workmanager plugin for scheduling background tasks efficiently, and SQLite database for data storing and retrieving purposes.
