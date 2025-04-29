@@ -1,22 +1,5 @@
 # platform_commons_task
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-Description About the App Project
+  Description About the App Project
 
   I implemented this app using Flutter state management. The app was built using the Dio package as the network client, and we used model classes for parsing data. We utilized the Workmanager plugin for scheduling background tasks efficiently, and SQLite database for data storing and retrieving purposes.
 
@@ -38,4 +21,4 @@ Description About the App Project
 
   In my previous app development, I used the shared preferences plugin for local storage, but here I implemented SQLite database. This was a little challenging for me, but I gained some experience with this package and database. Similarly, the Workmanager plugin was new to me, but I learned a lot while implementing this feature and gained some experience with it. I also implemented connectivity functionality - if the network is off, the data comes from the local database, and if the network is on, the data comes from the REST API.
 
-  These are the challenges and experiences I had while developing this app.RetryClaude can make mistakes. Please double-check responses.
+  These are the challenges and experiences I had while developing this app.
